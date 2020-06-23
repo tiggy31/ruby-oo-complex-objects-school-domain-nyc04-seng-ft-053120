@@ -5,9 +5,5 @@ class School
   def initialize(name)
     @roster = {}
     @name = name
-    
   end
-  
-  def
-  
 end
