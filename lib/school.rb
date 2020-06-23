@@ -3,8 +3,9 @@
 class School
   attr_reader :name, :roster
   def initialize(name)
-    @roster = {}
+    @roster = Hash.new{}
     @name = name
+    
   end
   
   def
