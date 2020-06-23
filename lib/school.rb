@@ -23,7 +23,7 @@ class School
       
        self.roster.collect do | grade, name|
          
-         
+       end
     end
     
 end
