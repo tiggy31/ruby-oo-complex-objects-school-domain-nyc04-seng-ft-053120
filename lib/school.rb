@@ -21,7 +21,9 @@ class School
     
     def sort
       
-       self.roster.collect
+       self.roster.collect do | grade, name|
+         
+         
     end
     
 end
