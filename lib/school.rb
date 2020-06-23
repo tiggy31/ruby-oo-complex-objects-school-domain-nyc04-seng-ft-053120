@@ -11,7 +11,7 @@ class School(name)
   
   def add_student(name,grade)
     @name = name
-    @\
+    
   end
   
   
