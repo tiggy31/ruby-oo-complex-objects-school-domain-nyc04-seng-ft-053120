@@ -10,7 +10,7 @@ class School
   # grade pointint to an array of name
   
   def add_student(name,grade)
-     self[grade] ||= []
+     self.roster[grade] ||= []
     self[grade] << name
   end
 end
