@@ -21,7 +21,7 @@ class School
     
     def sort
       
-       self.roster
+       self.roster.collect
     end
     
 end
