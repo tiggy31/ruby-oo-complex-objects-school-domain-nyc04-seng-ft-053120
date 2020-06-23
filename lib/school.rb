@@ -19,4 +19,7 @@ class School
   end
     
     
+    
+    def s
+    
 end
