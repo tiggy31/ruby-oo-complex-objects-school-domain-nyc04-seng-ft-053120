@@ -9,6 +9,7 @@ class School(name)
     @roster = Hash.new
   end
   
-  
+  def add_student(name,grade)
+  end
 end
   
